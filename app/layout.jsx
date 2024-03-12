@@ -1,9 +1,9 @@
 import "@/assets/styles/globals.css"
 
 export const metadata = {
-    title: 'Property Pulse | Find the perfect rental',
-    description: 'Find your dream rental property',
-    keywords: 'rentals, find rentals, find properties',
+  title: "Property Pulse | Find the perfect rental",
+  description: "Find your dream rental property",
+  keywords: "rentals, find rentals, find properties",
 }
 
 const MainLayout = ({ children }) => {
@@ -13,4 +13,7 @@ const MainLayout = ({ children }) => {
         <div>{children}</div>
       </body>
     </html>
-  )}
+  )
+}
+
+// export default MainLayout
