@@ -1,5 +1,5 @@
 const PropertyAddPage = () => {
-  return <div>Property Add Page</div>
-}
+  return <div className='bg-green-500 text-xl'>Property Add Page</div>;
+};
 
-export default PropertyAddPage
+export default PropertyAddPage;
