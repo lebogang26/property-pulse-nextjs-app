@@ -1,5 +1,7 @@
-const PropertyPage = () => {
-  return <div>Property Page</div>
-}
+'use client';
 
-export default PropertyPage
+const PropertyPage = () => {
+  return <div>Property Page</div>;
+};
+
+export default PropertyPage;
