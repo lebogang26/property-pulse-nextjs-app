@@ -1,5 +1,4 @@
 import properties from '@/properties.json';
-// import PropertyAddPage from './add/page';
 import PropertyCard from '@/components/PropertyCard';
 
 const PropertiesPage = () => {
